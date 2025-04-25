@@ -47,7 +47,7 @@ Built using the **Superstore Sales** dataset, this visualization project highlig
 
 ## 📸 Dashboard Snapshots
 
-> ![image_alt]()
+> ![image_alt](https://github.com/Mallikarjun-9/Sales-Dashboard-Project-Power-BI/blob/dfaf3e0ee930cfba7dfaa1d66821406a3fa78527/Screenshot%202025-04-25%20193932.png)
 
 ---
 
